@@ -1,0 +1,8 @@
+Session - 1:
+What is Database:
+=================
+
+What is database: A collection of data and holds this data in the form of Tables.
+What is table: Table holds data in the form of rows and columns.
+It is similar to Excel spreadsheet.
+The database provides us the capability to access and manipulate this data.
