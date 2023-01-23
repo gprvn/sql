@@ -6,3 +6,11 @@ What is database: A collection of data and holds this data in the form of Tables
 What is table: Table holds data in the form of rows and columns.
 It is similar to Excel spreadsheet.
 The database provides us the capability to access and manipulate this data.
+
+
+2 Types of databases are:
+  ->  Relational Database: Data stored in the form of rows and columns, and tables have relation between them.
+      SQLServer, MySQL, PostreSQL, SQLLite, OracleDB, MariaDB
+      
+  ->  NoSQL Database: Key Value Store, Document, Graph. Two table do not have any relation. Each table is different.
+      Hbase, MongoDB, cassandra
