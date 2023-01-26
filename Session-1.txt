@@ -14,3 +14,11 @@ The database provides us the capability to access and manipulate this data.
       
   ->  NoSQL Database: Key Value Store, Document, Graph. Two table do not have any relation. Each table is different.
       Hbase, MongoDB, cassandra
+      
+ What is SQL: Structured Query Language
+ MySQL vs SQL : 
+ 
+ MySQL - A relational database which holds the data, SQL is a way to communicate or query with relational database.
+ 
+ Installation:
+ 
